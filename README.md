@@ -1,6 +1,5 @@
-# INDODAX Market
+# Crypto Market
 
-Contoh penggunaan API VIP.BITCOIN.CO.ID untuk mengambil data ticker.
-## Ini bukan bot !!
+Ini bukan bot.
 
-Kunjungi https://aanwhs.github.io/indodaxmarket untuk contohnya!
+Kunjungi https://aanwhs.github.io/cryptomarket untuk contohnya!
