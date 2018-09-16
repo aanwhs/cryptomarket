@@ -1,6 +1,6 @@
-# marketvip
+# INDODAX Market
 
-Contoh penggunaan API VIP.BITCOIN.CO.ID untuk mengambil data ticker
+Contoh penggunaan API VIP.BITCOIN.CO.ID untuk mengambil data ticker.
 ## Ini bukan bot !!
 
-Kunjungi https://hargakoin.tk/ untuk contohnya
+Kunjungi https://aanwhs.github.io/indodaxmarket untuk contohnya!
