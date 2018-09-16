@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"> -->
 
   <!-- Site Properties -->
-  <title>Koin</title>
+  <title>INDODAX Market</title>
   <link rel="stylesheet" type="text/css" href="dist/semantic.css">
   <link rel="stylesheet" type="text/css" href="dist/components/reset.css">
   <link rel="stylesheet" type="text/css" href="dist/components/site.css">
@@ -51,19 +51,19 @@
   <div class="ui main container">
     
     <div class="ui secondary  menu">
-      <a href="/" class="item" id="priceLastmenubtc">HOME</a>
-      <a href="btc.php" class="item active" id="priceLastmenubtc">BTC</a>
-      <a href="bch.php" class="item" id="priceLastmenubch">BCH</a>
-      <a href="btg.php" class="item" id="priceLastmenubch">BTG</a>
-      <a href="eth.php" class="item" id="priceLastmenueth">ETH</a>
-      <a href="etc.php" class="item" id="priceLastmenuetc">ETC</a>
-      <a href="ignis.php" class="item" id="priceLastmenubch">IGNIS</a>
-      <a href="ltc.php" class="item" id="priceLastmenultc">LTC</a>
-      <a href="nxt.php" class="item" id="priceLastmenultc">NXT</a>
-      <a href="waves.php" class="item" id="priceLastmenuwaves">WAVES</a>
-      <a href="xlm.php" class="item" id="priceLastmenuxlm">XLM</a>
-      <a href="xrp.php" class="item" id="priceLastmenuxrp">XRP</a>
-      <a href="xzc.php" class="item" id="priceLastmenubxzc">XZC</a>
+      <a href="index" class="item" id="priceLastmenubtc">HOME</a>
+      <a href="btc" class="item active" id="priceLastmenubtc">BTC</a>
+      <a href="bch" class="item" id="priceLastmenubch">BCH</a>
+      <a href="btg" class="item" id="priceLastmenubch">BTG</a>
+      <a href="eth" class="item" id="priceLastmenueth">ETH</a>
+      <a href="etc" class="item" id="priceLastmenuetc">ETC</a>
+      <a href="ignis" class="item" id="priceLastmenubch">IGNIS</a>
+      <a href="ltc" class="item" id="priceLastmenultc">LTC</a>
+      <a href="nxt" class="item" id="priceLastmenultc">NXT</a>
+      <a href="waves" class="item" id="priceLastmenuwaves">WAVES</a>
+      <a href="xlm" class="item" id="priceLastmenuxlm">XLM</a>
+      <a href="xrp" class="item" id="priceLastmenuxrp">XRP</a>
+      <a href="xzc" class="item" id="priceLastmenubxzc">XZC</a>
     </div>
 
 
@@ -367,8 +367,8 @@
 </div>
 
 <br><br>
-<p>Code with <i class="empty heart icon"></i> by <a href="https://web.facebook.com/Ipoel.kripul">Kripul</a></p>
-<p><i class=" empty fork icon"></i>Fork this project on <a href="https://github.com/kripul/marketvip">Github</a></p>
+<p>I <i class="empty heart icon"></i> Indonesia</p>
+<p><i class=" empty fork icon"></i>Fork this project on <a href="https://github.com/aanwhs/indodaxmarket">Github</a></p>
 <br><br>
 </center>
 
